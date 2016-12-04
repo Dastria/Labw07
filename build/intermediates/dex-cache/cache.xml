@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_05dd3a5ce4862e02ff38325c70fdc4de193b8d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_3096e4fa76e44fc4b4ebcdca129876f7c7aa8d3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_57f1b9dcd8816b1e59880f9be5b424136540f1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="70ecacdd753c52c799410238c79f1db55a67f2ab">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_884647ebe1f89dd5531685a623e4ade3d030bafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP notebook\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_5d6409d4b003b34d0d84dc953c92238f9e6cb302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ba4cc9187dbae3b1d48007067187f8d8647de9a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_7fd3ac8438bde875e2890d1a93ba03052443051d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_df0a4baf069ccb418dcd082dea7aeb2d32b0b4de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ddd900f658cbe715abc27bb593f8e38778cb48d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_3460b14d5e4997888b567b746baccc90bfa85f91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_47952b855a68d9990cb162932e282fe350b641a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_97258fbcfcb3e8a27b912326c2c904327db89ce1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_bcccd5e8cd58e1a993edec9029d5228ea2a136ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e1be0c58f1c17244faa492c9d4e38afa25319f76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2fa96530fb7fb86a640e70a7b4006d9bcffabdfd">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\instant-run_58885c57e15832d1abe420bf2d34cdd3680d508b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_15a47c8416391d48a8a03c9b53989f4cebd9b6fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="F:\Programs\Labw07Akselerometr-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_ae9673651c1fd77f9c86e33e12980eb6b1c8f74b.jar" />
+    </item>
+
+</items>
